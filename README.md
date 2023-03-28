@@ -1,4 +1,5 @@
 # afkbot
+ MIRRORbot
+ Functional minecraft AFK bot for servers
 
-
-AAA4SS44CG-KK8866GFF
+AKDL: AAA4SS44CG-KK8866GFF
